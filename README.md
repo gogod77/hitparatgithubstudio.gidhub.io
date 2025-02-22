@@ -1,1 +1,1 @@
-# hitparatgithubstudio.gidhub.io
+# hitparathubstudio.github.io
